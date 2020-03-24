@@ -10,8 +10,8 @@ Link to presentation materials:
 
 ## Run Labs from MyBinder with Jupyter Lab
 
-- Browse to [mybinder.org](https://mybinder.org/)
-- Enter repo URL, `https://github.com/rgstephens/rasa-days.git`, and click **launch**
+- Click [here](https://mybinder.org/v2/gh/rgstephens/rasa-days/master) to launch this repo on MyBinder.org
+- If that link doesn't work. go to https://mybinder.org and enter repo URL, `https://github.com/rgstephens/rasa-days.git`, and click **launch**
 - In the browser URL, change the last component from `tree` to `lab` to switch to Jupyter Lab
 
 ### Lab 1 - Create Moodbot with `rasa init`
